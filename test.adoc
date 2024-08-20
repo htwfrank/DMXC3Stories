@@ -1,3 +1,12 @@
 :imagesdir: ./images/Kap3/
 == Testdoc
 Hier werden Konstrukte auf Kompatibilität zwischen github preview und AsciidocFX getestet
+image:Kap3_JanaDesign01.JPG[Beispiel Design Jana Cue 12
+
+NOTE: Hier einige Tipps dazu:
+
+* 6 LED PARs für Orchesterbeleuchtung (Gruppe Orchester)
+* 6 LED PARs für Chorbeleuchtung (Gruppe Chor)
+* 2 zusätzliche LED Washer für Chorbeleuchtung (Gruppe Washer)
+
+_<Offen in Abb.: Update-Button, Clear programmer>_
