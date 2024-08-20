@@ -10,3 +10,15 @@ NOTE: Hier einige Tipps dazu:
 * 2 zusätzliche LED Washer für Chorbeleuchtung (Gruppe Washer)
 
 _<Offen in Abb.: Update-Button, Clear programmer>_
+
+
+.DDF Ablage
+[width="100%",options="header,footer"]
+|====================
+| image:Kap3_DDFAblage.jpg[] |  Für die eigenen DDFs gibt es einen vorbereiteten Ablageplatz.
+Diesen findet man am besten über das Windows-Menü unter dem Eintrag DMXControl3.
+Einfach die DDFs, die man sich selbst erstellt hat oder aus der Cloud geladen hat, in dieses Verzeichnis kopieren.
+
+Wenn man ein selbst erstelltes DDF für ein neues Gerät hat, weil dieses noch nicht in der Cloud verfügbar war, ist es natürlich sehr fair, wenn man dies selbst hoch lädt. Die Community wird es Dir danken!
+|====================
+
