@@ -1,4 +1,4 @@
-
+:imagesdir: ./images/
 
 
 
@@ -21,8 +21,8 @@ dmxcontrol-projects.org
 
 [.text-center]
 
-Ein Community-Skript +
-zur Nutzung der freien Lichtsteuerungs-Software DMXControl 3
+*Ein Community-Skript +
+zur Nutzung der freien Lichtsteuerungs-Software DMXControl 3*
  +
  +
 
@@ -30,6 +30,9 @@ http://dmxcontrol-projects.org[Vereinsseite]
 
 
 http://dmxcontrol.de[Software Download]
++
++
 
+image:DMXControl-Projects_e.V._Logo.png[DMXControlLogo,200,200,float="right",align="center"]
 
 <<<

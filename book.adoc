@@ -8,6 +8,15 @@ include::ch01_Grundlagen.adoc[]
 
 include::ch02_Ueberblick.adoc[]
 
+include::ch03_ErsteShow.adoc[]
+
+include::ch04_Party.adoc[]
+
+include::ch05_Karneval.adoc[]
+
+include::ch06_LichtImClub.adoc[]
+
+include::ch07_BandKonzert.adoc[]
 
 
 [index]
